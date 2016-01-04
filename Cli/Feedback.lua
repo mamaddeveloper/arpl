@@ -12,7 +12,7 @@ do
    --like : local chat = "chat#id"..12345678
    
   local sends = send_msg(chat, fuse, ok_cb, false)
-  return 'Sent!'
+  return 'Ersal Shod!'
  
  end
  end
